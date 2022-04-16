@@ -8,21 +8,18 @@ body{
     font-family: 'Ubuntu';
     font-weight: 200;
 }
-h1{
-    font-family: 'Montserrat';
-    font-weight: bold;
-    font-size: 3rem;
-    line-height: 1.5;
-    color: white;
 
-}
-h2{
+h1,h2{
     font-family: 'Montserrat';
     font-weight: bold;
     line-height: 1.5;
     font-size: 2.7 rem;
 }
-
+.main-head{
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+}
 
 .container-fluid{
     padding: 3% 15% 7%;
